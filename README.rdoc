@@ -5,7 +5,7 @@ for inspection and modification.
 
 The library can parse an SQL query (a string) to represent the query using
 a syntax tree, and it can generate an SQL query from a syntax tree. The syntax
-tree ca be used to inspect to query, or to modify it.
+tree can be used to inspect to query, or to modify it.
 
 This library is currently in the early stages. This means that the API is not
 yet stable and not all SQL constructs are implemented yet.
